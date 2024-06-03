@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Biyeol/reactweb/static/css/main.2a545497.css",
+    "main.js": "/Biyeol/reactweb/static/js/main.58916614.js",
+    "static/js/787.7f30561d.chunk.js": "/Biyeol/reactweb/static/js/787.7f30561d.chunk.js",
+    "index.html": "/Biyeol/reactweb/index.html",
+    "main.2a545497.css.map": "/Biyeol/reactweb/static/css/main.2a545497.css.map",
+    "main.58916614.js.map": "/Biyeol/reactweb/static/js/main.58916614.js.map",
+    "787.7f30561d.chunk.js.map": "/Biyeol/reactweb/static/js/787.7f30561d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a545497.css",
+    "static/js/main.58916614.js"
+  ]
+}
